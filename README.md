@@ -9,7 +9,6 @@ SQL Server Credentials: Have SQL Server credentials available to configure the C
 Clone the Repository:
 
 ```bash
-Copy code
 git clone https://github.com/0ceanslim/pysource.git
 cd pysource 
 ```
