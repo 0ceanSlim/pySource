@@ -1,0 +1,7 @@
+sql_config.json
+bfg.jar
+/build
+/dist
+*.spec
+__pycache__/
+/output
