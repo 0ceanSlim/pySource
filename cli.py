@@ -40,7 +40,7 @@ def check_sql_config():
 def get_sql_config():
     # Define the connection string
     sql_server = input("Enter the sql server (network\location): ")
-    sql_database = input("Enter the sql database: ")
+    sql_database = input("Enter the sql database: \n (can be left empty if you're unsure of your database names)")
     sql_user = input("Enter the sql user: ")
     sql_password = input("Enter the sql password: ")
 
